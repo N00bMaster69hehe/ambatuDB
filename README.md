@@ -1,2 +1,2 @@
 # ambatuDB
-credit:benardoNG
+credit:sifu benardoNG
